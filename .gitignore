@@ -1,0 +1,7 @@
+node_modules/
+target/
+
+# Eclipse
+.settings/
+.project
+.classpath
